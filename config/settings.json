@@ -1,0 +1,19 @@
+{
+    "process_checklist_frequency_seconds": 30,
+    "uncheck_deferred_issues_frequency_seconds": 3600,
+    "delete_done_checklist_items": false,
+    "modify_browser_page_on_fetch": false,
+    "ignore_errors": {
+        "task.position_if_exists": false,
+        "task.position": false,
+        "course.name": false,
+        "track.name": false,
+        "track.id": false,
+        "lesson.name": false,
+        "sprint.name": true,
+        "sprint.id": false,
+        "topic.name": false,
+        "faculty.name": false,
+        "profession.name": false
+    }
+}

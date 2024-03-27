@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+env.bak/
+env1/
+env2/
+ENV/
+
+# Local development settings (change as needed)
+.env
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE specific files
+.vscode/
+*.idea/
+*.pyc
+
+# Dependency directories
+# (Use specific names if you're using a package manager other than pip)
+pip/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Optional: Exclude sensitive or environment-specific information
+# secret_config.ini
+# config.ini
+# settings.ini
+
+# Optional: Exclude any other project-specific files or directories
+# project_specific_dir/
+chromedriver/
+*chromedriver*
+chrome/
+dev/
